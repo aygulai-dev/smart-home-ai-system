@@ -42,7 +42,9 @@ This project demonstrates how a basic intelligent system can be built using Pyth
 - How real-time loops simulate live systems
 
 ---
+## 📁 Project Structure
+- main.py
+- data.py
 
 ## 🚀 Status
-Completed (Portfolio Project)
-Learning / Portfolio Project (In Progress)
+Completed (Portfolio Project) ✔️
