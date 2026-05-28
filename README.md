@@ -1,24 +1,18 @@
 # 🏠 Smart Home AI System
 
-A simple Python-based Smart Home simulation that generates sensor data and applies AI-like logic to monitor system status in real time.
+A Python-based smart home simulation project that generates sensor data and applies rule-based AI logic to monitor system status in real time.
 
 ---
 
-## 🎯 Project Goal
-To simulate a smart home environment and demonstrate:
-- Data generation (IoT concept)
-- Basic AI decision-making (rule-based system)
-- Real-time monitoring logic
+## 🎯 Purpose
+This project demonstrates how a basic intelligent system can be built using Python by simulating real-world IoT sensor behavior and decision-making logic.
 
 ---
 
 ## ⚙️ Features
-- Simulated sensor data:
-  - Temperature
-  - Humidity
-  - Energy usage
-- AI-style risk analysis system
-- Real-time loop simulation
+- Simulated sensor data (Temperature, Humidity, Energy)
+- Real-time data generation using loops
+- Rule-based AI decision system (risk scoring)
 - Status classification:
   - 🟢 Normal
   - 🟡 Warning
@@ -26,19 +20,29 @@ To simulate a smart home environment and demonstrate:
 
 ---
 
-## 🧠 How it works
+## 🧠 System Logic
 1. data.py generates random sensor values
-2. main.py processes the data
-3. System calculates a risk score
-4. Prints live status every few seconds
+2. main.py processes incoming data
+3. A simple risk score is calculated
+4. System prints live status updates
 
 ---
 
 ## 🛠️ Tech Stack
 - Python
 - Basic AI logic (rule-based system)
+- Real-time loop simulation
+
+---
+
+## 📌 What I Learned
+- How to structure a Python project
+- How to separate logic into modules
+- How basic decision systems work
+- How real-time loops simulate live systems
 
 ---
 
 ## 🚀 Status
+Completed (Portfolio Project)
 Learning / Portfolio Project (In Progress)
